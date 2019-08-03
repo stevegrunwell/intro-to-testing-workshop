@@ -6,6 +6,8 @@ This workshop covers the fundamentals of testing, in a beginner-friendly way. We
 
 :sparkles: **[View slides](http://stevegrunwell.github.io/intro-to-testing-workshop)** :sparkles:
 
+**Looking for the regular session?** It's available at [stevegrunwell.com/slides/intro-to-testing](https://stevegrunwell.com/slides/intro-to-testing).
+
 ## Resources
 
 * [PHPUnit](https://phpunit.de/)
