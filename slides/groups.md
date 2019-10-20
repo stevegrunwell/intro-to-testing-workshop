@@ -6,16 +6,16 @@ Used to run tests of a similar nature, across suites & classes:
 /**
  * @test
  * @group API
- * @group UserContent
+ * @group Posts
  */
-public function responses_should_include_private_posts()
+public function users_should_not_see_private_posts()
 {
     // ...
 }
 ```
 
 ```sh
-$ phpunit --group=API
+$ phpunit --group=Posts
 ```
 <!-- .element: class="fragment" -->
 

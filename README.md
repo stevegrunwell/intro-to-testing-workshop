@@ -8,6 +8,12 @@ This workshop covers the fundamentals of testing, in a beginner-friendly way. We
 
 **Looking for the regular session?** It's available at [stevegrunwell.com/slides/intro-to-testing](https://stevegrunwell.com/slides/intro-to-testing).
 
+## Download the Pupper application
+
+For this talk, we'll be using a Laravel-based Twitter clone, [Pupper](https://github.com/stevegrunwell/pupper).
+
+Please [follow the Pupper installation instructions](https://github.com/stevegrunwell/pupper#installation) to create your own instance of Pupper to follow along with.
+
 ## Resources
 
 * [PHPUnit](https://phpunit.de/)
@@ -17,4 +23,4 @@ This workshop covers the fundamentals of testing, in a beginner-friendly way. We
 
 ## Presentation History
 
-* [php[world] 2019] — (https://world2019.phparch.com) — October 22, 2019
+* [php[world] 2019](https://world2019.phparch.com) — October 22, 2019

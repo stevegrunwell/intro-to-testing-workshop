@@ -4,4 +4,5 @@
 Steve Grunwell<br>
 [@stevegrunwell](https://twitter.com/stevegrunwell)
 
-[stevegrunwell.com/slides/intro-to-testing-workshop](https://stevegrunwell.com/slides/intro-to-testing-workshop)<!-- .element: class="slides-link" -->
+**Get the pre-requisites!**<br>
+[stevegrunwell.com/slides/intro-to-testing-workshop](https://stevegrunwell.com/slides/intro-to-testing-workshop)

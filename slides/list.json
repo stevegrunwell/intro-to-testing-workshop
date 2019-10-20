@@ -1,5 +1,7 @@
 [
     "index.md",
+    "agenda.md",
+    "chapter1.md",
     [
         "automated-testing.md",
         "types-of-testing.md",
@@ -15,6 +17,7 @@
         "phpunit.md",
         "test-structure.md",
         "test-class.md",
+        "test-class2.md",
         "test-method.md",
         "phpunit-example.md",
         "example-output.md",
@@ -42,6 +45,15 @@
         "testing-output.md"
     ],
     [
+        "testing-laravel.md",
+        "laravel-factories.md",
+        "laravel-refresh-database.md",
+        "laravel-http-requests.md",
+        "laravel-assertions.md",
+        "laravel-test-doubles.md",
+        "laravel-test-doubles2.md"
+    ],
+    [
         "tdd.md",
         "tdd2.md",
         "regression-tests.md",
@@ -50,9 +62,26 @@
     ],
     [
         "code-coverage.md",
-        "code-coverage2.md",
-        "wordpress.md",
-        "wordpress2.md"
+        "code-coverage2.md"
     ],
-    "thank-you.md"
+    "break.md",
+    [
+        "chapter2.md",
+        "meet-pupper.md"
+    ],
+    [
+        "chapter3.md",
+        "pupper-coverage.md"
+    ],
+    [
+        "chapter4.md",
+        "new-feature-requirements.md",
+        "new-feature-requirements2.md",
+        "new-feature-requirements3.md"
+    ],
+    [
+        "chapter5.md",
+        "bug-report.md"
+    ],
+    "bonus-round.md"
 ]
