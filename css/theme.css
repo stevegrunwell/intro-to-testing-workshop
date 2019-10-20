@@ -378,14 +378,23 @@ body {
 .slides table.equivalence-table td {
   border: none; }
 
-.slides .seamless img {
+.slides .seamless, .slides .seamless img {
   background: none;
   border: none;
   box-shadow: none; }
 
+.slides .title-slide h1, .slides .title-slide p {
+  margin-bottom: 1.5em; }
+
 .slides .title-slide h1 {
-  font-size: 1.6em;
-  margin-bottom: 2em; }
+  font-size: 1.6em; }
+
+.slides .chapter-slide .chapter-number {
+  display: block;
+  margin-bottom: 1em;
+  font-family: sans-serif;
+  font-size: smaller;
+  font-weight: 100; }
 
 .slides .fragment-replacement .fragment.fade-out.visible,
 .slides .fragment-replacement .fragment.fade-in:not(.visible) {
